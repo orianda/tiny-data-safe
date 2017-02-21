@@ -1,4 +1,4 @@
-# Data Save
+# Tiny Data Save
 
 Store data in safe and prevent them from being accessed without the valid key. 
 

@@ -31,7 +31,7 @@
   }
 
   /**
-   * Create data safe instance
+   * Create tiny data safe instance
    * @constructor
    */
   function TinyDataSafe() {
