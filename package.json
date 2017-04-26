@@ -1,6 +1,6 @@
 {
   "name": "tiny-data-safe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Store data in safe and prevent them from being accessed without the valid key.",
   "homepage": "https://github.com/orianda/tiny-data-safe",
   "main": "src/index.js",
